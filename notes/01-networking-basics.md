@@ -15,13 +15,15 @@ Jeremy's IT Lab — CCNA course
 
 - Route data from client to server.
 - Provide connectivity between LANs or over the Internet.
-- Has fewer network interfaces than switches. 
+- Has fewer network interfaces than switches.
+- Cisco ISR
 
 ## Switch
 
 - Provide connectivity to hosts devices within the same LAN.
 - Route data within the LAN.
 - Has 24+ port for devices to connect via Ethernet.
+- Cisco Catalyst
 
 ## Firewall 
 
@@ -29,6 +31,8 @@ Jeremy's IT Lab — CCNA course
 - Host-based firewall was a software in the device that act as a additional security layer protection.
 - Can be a Next Gen Firewall when they include modern and advanced filtering.
 - Monitor and control traffic based on configured rules.
+- Cisco ASA
+- Cisco Firepower
 
 ## Server
 
@@ -40,4 +44,8 @@ Jeremy's IT Lab — CCNA course
 - Any endpoints could be a client.
 - A device that access a service made available by the server.
 
+### My Question
+
+- What purpose of modem in my home LAN?
+- Does router mainly connect device using Wifi instead of Ethernet because fewer ports?
 
